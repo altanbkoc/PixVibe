@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">PixVibe</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="image_details">Image Details</string>
+    <string name="image_info">Image Information</string>
+
+    <string name="home_most_liked">Most Liked</string>
+    <string name="home_most_downloaded">Most Downloaded</string>
+    <string name="home_recommended">Recommended</string>
+    <string name="home_pull_to_refresh">Pull to refresh</string>
+
+    <string name="search_hint">Search images…</string>
+    <string name="search_categories">Categories</string>
+    <string name="search_no_results">No images found</string>
+    <string name="search_enter_query">Enter search term</string>
+
+    <string name="category_backgrounds">Backgrounds</string>
+    <string name="category_fashion">Fashion</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_science">Science</string>
+    <string name="category_education">Education</string>
+    <string name="category_feelings">Feelings</string>
+    <string name="category_health">Health</string>
+    <string name="category_people">People</string>
+    <string name="category_religion">Religion</string>
+    <string name="category_places">Places</string>
+    <string name="category_animals">Animals</string>
+    <string name="category_industry">Industry</string>
+    <string name="category_computer">Computer</string>
+    <string name="category_food">Food</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_transportation">Transportation</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_buildings">Buildings</string>
+    <string name="category_business">Business</string>
+    <string name="category_music">Music</string>
+
+    <string name="favorites_empty">No favorite images yet</string>
+    <string name="favorites_empty_description">Start adding images to your favorites!</string>
+    <string name="favorites_delete_all">Delete All</string>
+    <string name="favorites_delete_confirm">Delete all favorites?</string>
+    <string name="favorites_delete_confirm_message">This action cannot be undone.</string>
+
+    <string name="detail_save">Save</string>
+    <string name="detail_download">Download</string>
+    <string name="detail_share">Share</string>
+    <string name="detail_likes">Likes</string>
+    <string name="detail_downloads">Downloads</string>
+    <string name="detail_views">Views</string>
+    <string name="detail_size">Size</string>
+    <string name="detail_type">Type</string>
+    <string name="detail_tags">Tags</string>
+    <string name="detail_saved">Image saved to favorites</string>
+    <string name="detail_removed">Image removed from favorites</string>
+    <string name="detail_downloaded">Image downloaded to gallery</string>
+    <string name="detail_tap_to_zoom">Tap to view full screen</string>
+
+    <string name="error_network">Network connection error. Please check your internet connection.</string>
+    <string name="error_unknown">An unexpected error occurred. Please try again.</string>
+    <string name="error_search">An error occurred while searching images</string>
+    <string name="error_fetch_random">An error occurred while fetching random images</string>
+    <string name="error_fetch_category">An error occurred while fetching images by category</string>
+    <string name="error_loading">Loading failed</string>
+    <string name="error_no_results">No images found for your search</string>
+
+    <string name="loading">Loading…</string>
+    <string name="loading_images">Loading images…</string>
+
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">Close</string>
+
+    <string name="splash_text">Discover Amazing Images</string>
+
+    <string name="image_saved">saved image</string>
+    <string name="resolution">Resolution</string>
+
+
+</resources>
